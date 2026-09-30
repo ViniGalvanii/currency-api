@@ -1,1 +1,6 @@
-﻿ criação da currency-api, aplicando os conceitos de arquitetura de microsserviços, organização em camadas, persistência de dados, APIs REST, tratamento de exceções e configuração externalizada trabalhados em aula.
+# currency-api — Microsserviços
+
+**Aluno:** Vinícius Galvani
+**RA:** 1137277
+**Disciplina:** Paradigmas de Linguagens de Programação — ATITUS
+**Professor:** Luciano Ferretto
